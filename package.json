@@ -1,6 +1,6 @@
 {
   "name": "css-wordart",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "The css package for wordart style",
   "main": "index.js",
   "scripts": {
