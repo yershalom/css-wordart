@@ -1,3 +1,1 @@
-import styles from './styles.css';
-
-export default styles;
+module.exports = require('./styles.css');
