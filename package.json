@@ -1,0 +1,13 @@
+{
+  "name": "css-wordart",
+  "version": "1.0.0",
+  "description": "The css package for wordart style",
+  "main": "index.js",
+  "scripts": {
+    "test": ":"
+  },
+  "author": {
+    "name": "Shalom Yerushalmy"
+  },
+  "license": "MIT"
+}
