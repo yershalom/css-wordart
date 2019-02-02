@@ -2,7 +2,7 @@
 
 > The nostalgic WordArt in css
 
-![NPM](https://img.shields.io/npm/v/css-wordart.svg)
+[![NPM](https://img.shields.io/npm/v/css-wordart.svg)](https://www.npmjs.com/package/css-wordart)
 
 ### Libraries
 
