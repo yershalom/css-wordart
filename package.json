@@ -1,15 +1,20 @@
 {
   "name": "css-wordart",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "The css package for wordart style",
   "homepage": "https://yershalom.github.io/react-wordart",
   "repository": "yershalom/css-wordart",
   "main": "index.js",
   "scripts": {
-    "test": ":"
+    "test": ":",
+    "build": "node-sass styles.scss -o css",
+    "postinstall": "npm run build"
   },
   "author": {
     "name": "Shalom Yerushalmy"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
 }
