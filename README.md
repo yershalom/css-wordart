@@ -9,6 +9,7 @@
 Here are some example libraries that are using `css-wordart`.
 
 - [react-wordart](https://github.com/yershalom/react-wordart) - React wrapper for css-wordart.
+- [vue-wordart](https://github.com/muhibbudins/vue-wordart) - Vuejs wrapper for css-wordart.
 
 ### Available Themes
 Theme | Output
