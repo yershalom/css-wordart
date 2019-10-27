@@ -1,6 +1,6 @@
 # css-wordart ([demo](https://yershalom.github.io/react-wordart/))
 
-> The nostalgic WordArt in css
+> The Nostalgic WordArt in css
 
 [![NPM](https://img.shields.io/npm/v/css-wordart.svg)](https://www.npmjs.com/package/css-wordart)
 
