@@ -7,7 +7,9 @@
   "main": "index.js",
   "scripts": {
     "test": ":",
-    "build": "node-sass styles.scss -o css",
+    "build": "npm run build:css && npm run build:component",
+    "build:css": "node-sass styles.scss -o css",
+    "build:component": "gulp buildComponent",
     "postinstall": "npm run build"
   },
   "author": {
@@ -16,5 +18,9 @@
   "license": "MIT",
   "dependencies": {
     "node-sass": "^7.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-replace": "^1.1.3"
   }
 }

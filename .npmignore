@@ -1,4 +1,6 @@
 .idea
 package-lock.json
 node_modules
-css
+gulpfile.js
+src
+index.html
